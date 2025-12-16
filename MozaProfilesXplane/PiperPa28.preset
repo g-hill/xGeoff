@@ -1,5 +1,5 @@
 {
-    "date": "1765845604",
+    "date": "1765921717",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -49,9 +49,9 @@
         "axis_range_z_curve_y4": 80,
         "axis_range_z_curve_y5": 100,
         "axis_range_z_reversal": 0,
-        "bacic_damper": 20,
+        "bacic_damper": 25,
         "bacic_force_model": 2,
-        "bacic_friction": 13,
+        "bacic_friction": 40,
         "bacic_gameForceFeedback": 73,
         "bacic_hardware_blance_auto": 0,
         "bacic_inertia": 11,
@@ -118,8 +118,8 @@
         "base_spring_y_pos_y4": 60,
         "base_spring_y_pos_y5": 80,
         "base_spring_y_pos_y6": 100,
-        "base_total_advanced_set_X": 55,
-        "base_total_advanced_set_Y": 70,
+        "base_total_advanced_set_X": 100,
+        "base_total_advanced_set_Y": 100,
         "base_total_limit_advanced_set_X": 20,
         "base_total_limit_advanced_set_Y": 20,
         "bf_x_axis_follow_ratio": 100,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{3f81cbb1-0df1-4857-9df4-bbc531d14373}",
+    "uuid": "{59d16934-24bc-4fcc-b4b7-3c982b89fe2f}",
     "vehicles": "PA-18-150.acf",
     "version": "1.0.1"
 }
