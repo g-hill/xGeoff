@@ -1,5 +1,5 @@
 {
-    "date": "1765902438",
+    "date": "1765902875",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{266e9f5b-6ca9-4392-b66d-5ef6a053632d}",
+    "uuid": "{249071ab-e2dc-4444-a8e7-03b7b0dbbbc2}",
     "vehicles": "Cessna_172SP.acf",
     "version": "1.0.1"
 }
