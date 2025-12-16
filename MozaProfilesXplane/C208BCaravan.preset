@@ -1,5 +1,5 @@
 {
-    "date": "1765906646",
+    "date": "1765907335",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -121,7 +121,7 @@
         "base_total_advanced_set_X": 100,
         "base_total_advanced_set_Y": 100,
         "base_total_limit_advanced_set_X": 24,
-        "base_total_limit_advanced_set_Y": 37,
+        "base_total_limit_advanced_set_Y": 25,
         "bf_x_axis_follow_ratio": 100,
         "bf_y_axis_follow_ratio": 100,
         "flap_switch_trigger_hold_time": 0,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{2ed54c1f-fe18-41fd-861c-57f2119eb412}",
+    "uuid": "{f62dee29-d941-4501-90d6-4d1a8926fa11}",
     "vehicles": "Cessna_172SP.acf",
     "version": "1.0.1"
 }
