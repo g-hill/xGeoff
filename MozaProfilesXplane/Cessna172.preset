@@ -1,5 +1,5 @@
 {
-    "date": "1765901873",
+    "date": "1765902438",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -215,11 +215,11 @@
         "deflection_neg": 1,
         "design_buffeting_aoa": 10,
         "design_stall_aoa": 15,
-        "dyn_pressure_scale": 0,
+        "dyn_pressure_scale": -5,
         "elevator_droop": 50,
         "elevator_droop_switch": true,
-        "elevator_prop_flow_enable": true,
-        "elevator_prop_flow_ratio": 15,
+        "elevator_prop_flow_enable": false,
+        "elevator_prop_flow_ratio": 0,
         "enable_stick_shaker": false,
         "engine_rumble_high_intensity": 4,
         "engine_rumble_high_rpm": 2815,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{81beb2a3-7d24-484f-833f-2cf9a3ef55c7}",
+    "uuid": "{266e9f5b-6ca9-4392-b66d-5ef6a053632d}",
     "vehicles": "Cessna_172SP.acf",
     "version": "1.0.1"
 }
