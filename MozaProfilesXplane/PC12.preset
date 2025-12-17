@@ -1,5 +1,5 @@
 {
-    "date": "1765931842",
+    "date": "1766001067",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -82,7 +82,7 @@
         "base_inertia_x_pos_advanced": 100,
         "base_inertia_y_neg_advanced": 100,
         "base_inertia_y_pos_advanced": 100,
-        "base_spring_x_neg_advanced": 85,
+        "base_spring_x_neg_advanced": 100,
         "base_spring_x_neg_dead_zone": 0,
         "base_spring_x_neg_input": 100,
         "base_spring_x_neg_output": 100,
@@ -91,7 +91,7 @@
         "base_spring_x_neg_y4": 60,
         "base_spring_x_neg_y5": 80,
         "base_spring_x_neg_y6": 100,
-        "base_spring_x_pos_advanced": 85,
+        "base_spring_x_pos_advanced": 100,
         "base_spring_x_pos_dead_zone": 0,
         "base_spring_x_pos_input": 100,
         "base_spring_x_pos_output": 100,
@@ -219,7 +219,7 @@
         "elevator_droop": 100,
         "elevator_droop_switch": false,
         "elevator_prop_flow_enable": true,
-        "elevator_prop_flow_ratio": 50,
+        "elevator_prop_flow_ratio": 20,
         "enable_stick_shaker": false,
         "engine_rumble_high_intensity": 0,
         "engine_rumble_high_rpm": 2985,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 58,
         "wind_effect_switch": true
     },
-    "uuid": "{20e3e015-201a-46a2-b95f-95b569f9bbc9}",
+    "uuid": "{2c29b285-5d07-42bc-ba1b-78ff35ede1e0}",
     "vehicles": "C90B.acf",
     "version": "1.0.1"
 }
