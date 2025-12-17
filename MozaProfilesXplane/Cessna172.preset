@@ -1,5 +1,5 @@
 {
-    "date": "1766001024",
+    "date": "1766007084",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -64,11 +64,11 @@
         "bacic_temperature_mode": 2,
         "background_led_brightness": 15,
         "background_led_mode": 1,
-        "balance_and_follow": 0,
-        "balancing_limit_lwd": 0,
+        "balance_and_follow": 1,
+        "balancing_limit_lwd": 100,
         "balancing_limit_noseDown": 100,
         "balancing_limit_noseUp": 100,
-        "balancing_limit_rwd": 0,
+        "balancing_limit_rwd": 100,
         "base_advanced_enable": 1,
         "base_damp_x_neg_advanced": 100,
         "base_damp_x_pos_advanced": 100,
@@ -129,7 +129,7 @@
         "gear_led_color": 0,
         "gear_led_mode": 0,
         "gear_led_neutral_color": 0,
-        "hardware_balancing_enable": 1,
+        "hardware_balancing_enable": 0,
         "hardware_balancing_lwd": 0,
         "hardware_balancing_noseDown": 21,
         "hardware_balancing_noseUp": 19,
@@ -218,8 +218,8 @@
         "dyn_pressure_scale": -5,
         "elevator_droop": 50,
         "elevator_droop_switch": true,
-        "elevator_prop_flow_enable": true,
-        "elevator_prop_flow_ratio": 10,
+        "elevator_prop_flow_enable": false,
+        "elevator_prop_flow_ratio": 15,
         "enable_stick_shaker": false,
         "engine_rumble_high_intensity": 4,
         "engine_rumble_high_rpm": 2815,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{a582c67e-e417-48c3-8bfb-5fd103181f09}",
+    "uuid": "{7652aded-7502-4459-8c3e-86e5942f74f6}",
     "vehicles": "Cessna_172SP.acf",
     "version": "1.0.1"
 }

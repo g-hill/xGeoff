@@ -1,5 +1,5 @@
 {
-    "date": "1766001174",
+    "date": "1766007108",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -218,7 +218,7 @@
         "dyn_pressure_scale": -100,
         "elevator_droop": 50,
         "elevator_droop_switch": true,
-        "elevator_prop_flow_enable": true,
+        "elevator_prop_flow_enable": false,
         "elevator_prop_flow_ratio": 5,
         "enable_stick_shaker": false,
         "engine_rumble_high_intensity": 3,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{7d909125-16e1-4872-bcda-390930c97ec6}",
+    "uuid": "{200b85dc-28de-4b9f-9d6a-72fdb84fca26}",
     "vehicles": "PA-18-150.acf",
     "version": "1.0.1"
 }
