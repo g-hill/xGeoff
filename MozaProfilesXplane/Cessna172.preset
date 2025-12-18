@@ -1,5 +1,5 @@
 {
-    "date": "1766094223",
+    "date": "1766096331",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -11,7 +11,7 @@
         "Steer_StartForceHandsOffEnable": 0,
         "Steer_StickConnectCheckFlag": 1,
         "ad_x_axis_follow_ratio": 100,
-        "ad_y_axis_follow_ratio": 60,
+        "ad_y_axis_follow_ratio": 10,
         "autonomous_driving_following": 1,
         "axial_input_mode": 1,
         "axis_range_x": 1,
@@ -177,7 +177,7 @@
         "PitchEffect_switch": true,
         "RollEffect_switch": true,
         "ad_x_axis_follow_up_rate": 20,
-        "ad_y_axis_follow_up_rate": 5,
+        "ad_y_axis_follow_up_rate": 20,
         "afterburner_rumble": 4,
         "afterburner_rumble_switch": false,
         "alpha0": -2,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{756a03bb-2a09-4413-863d-cdfd8fb2a1f9}",
+    "uuid": "{fc45806d-6bee-4bd8-82b5-8d30d840aa4d}",
     "vehicles": "Cessna_172SP.acf",
     "version": "1.0.1"
 }
