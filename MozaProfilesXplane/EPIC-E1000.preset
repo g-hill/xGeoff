@@ -1,5 +1,5 @@
 {
-    "date": "1766109073",
+    "date": "1766110317",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -10,8 +10,8 @@
         "LedStripEffect": 0,
         "Steer_StartForceHandsOffEnable": 0,
         "Steer_StickConnectCheckFlag": 0,
-        "ad_x_axis_follow_ratio": 31,
-        "ad_y_axis_follow_ratio": 32,
+        "ad_x_axis_follow_ratio": 46,
+        "ad_y_axis_follow_ratio": 17,
         "autonomous_driving_following": 1,
         "axial_input_mode": 1,
         "axis_range_x": 1,
@@ -177,7 +177,7 @@
         "PitchEffect_switch": false,
         "RollEffect_switch": false,
         "ad_x_axis_follow_up_rate": 18,
-        "ad_y_axis_follow_up_rate": 18,
+        "ad_y_axis_follow_up_rate": 11,
         "afterburner_rumble": 100,
         "afterburner_rumble_switch": false,
         "alpha0": -2,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 58,
         "wind_effect_switch": true
     },
-    "uuid": "{7600a065-918d-463f-9395-50600a846538}",
+    "uuid": "{99865f5b-27dc-4f5f-8e44-f64f22cb0721}",
     "vehicles": "C90B.acf",
     "version": "1.0.1"
 }
