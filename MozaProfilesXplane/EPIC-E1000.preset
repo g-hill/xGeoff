@@ -1,5 +1,5 @@
 {
-    "date": "1766107869",
+    "date": "1766109073",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -57,9 +57,9 @@
         "bacic_inertia": 40,
         "bacic_max_torque": 55,
         "bacic_overall_strength": 100,
-        "bacic_spring": 20,
-        "bacic_start_force_coefficient": 23,
-        "bacic_start_force_enble": 0,
+        "bacic_spring": 11,
+        "bacic_start_force_coefficient": 10,
+        "bacic_start_force_enble": 1,
         "bacic_start_force_transition_zone": 16,
         "bacic_temperature_mode": 2,
         "background_led_brightness": 15,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 58,
         "wind_effect_switch": true
     },
-    "uuid": "{42c9fdf3-3122-4f90-9109-5ec34a73183d}",
+    "uuid": "{7600a065-918d-463f-9395-50600a846538}",
     "vehicles": "C90B.acf",
     "version": "1.0.1"
 }
