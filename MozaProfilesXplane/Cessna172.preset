@@ -1,5 +1,5 @@
 {
-    "date": "1766969145",
+    "date": "1767047088",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -10,8 +10,8 @@
         "LedStripEffect": 0,
         "Steer_StartForceHandsOffEnable": 0,
         "Steer_StickConnectCheckFlag": 1,
-        "ad_x_axis_follow_ratio": 94,
-        "ad_y_axis_follow_ratio": 62,
+        "ad_x_axis_follow_ratio": 82,
+        "ad_y_axis_follow_ratio": 40,
         "autonomous_driving_following": 1,
         "axial_input_mode": 1,
         "axis_range_x": 1,
@@ -120,10 +120,10 @@
         "base_spring_y_pos_y6": 100,
         "base_total_advanced_set_X": 100,
         "base_total_advanced_set_Y": 100,
-        "base_total_limit_advanced_set_X": 30,
-        "base_total_limit_advanced_set_Y": 31,
-        "bf_x_axis_follow_ratio": 100,
-        "bf_y_axis_follow_ratio": 100,
+        "base_total_limit_advanced_set_X": 55,
+        "base_total_limit_advanced_set_Y": 55,
+        "bf_x_axis_follow_ratio": 0,
+        "bf_y_axis_follow_ratio": 0,
         "flap_switch_trigger_hold_time": 0,
         "gear_led_brightness": 0,
         "gear_led_color": 0,
@@ -141,10 +141,10 @@
         "spring_x_link_y": false,
         "status_device_control": 0,
         "status_telemetry_data_source": 0,
-        "x_axis_follows_starting_force": 26,
-        "x_axis_follows_starting_range": 26,
-        "y_axis_follows_starting_force": 29,
-        "y_axis_follows_starting_range": 31
+        "x_axis_follows_starting_force": 50,
+        "x_axis_follows_starting_range": 50,
+        "y_axis_follows_starting_force": 50,
+        "y_axis_follows_starting_range": 50
     },
     "device_type": "Base",
     "devices": [
@@ -176,8 +176,8 @@
         "MCLS_Mode": false,
         "PitchEffect_switch": true,
         "RollEffect_switch": true,
-        "ad_x_axis_follow_up_rate": 18,
-        "ad_y_axis_follow_up_rate": 13,
+        "ad_x_axis_follow_up_rate": 20,
+        "ad_y_axis_follow_up_rate": 10,
         "afterburner_rumble": 4,
         "afterburner_rumble_switch": false,
         "alpha0": -2,
@@ -192,8 +192,8 @@
         "axis_x": 32767,
         "axis_y": 32762,
         "az": 0.1,
-        "bf_x_axis_follow_up_rate": 20,
-        "bf_y_axis_follow_up_rate": 20,
+        "bf_x_axis_follow_up_rate": 1,
+        "bf_y_axis_follow_up_rate": 1,
         "buffet_onset_aoa": 13,
         "buffeting_frequency": 11,
         "buffeting_frequeney": 11,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{cba9c9ed-69c6-4f7a-bcbd-06b634af04a9}",
+    "uuid": "{c0dff857-d369-41a5-b1be-c2e3057e09b0}",
     "vehicles": "Cessna_172SP.acf",
     "version": "1.0.1"
 }
