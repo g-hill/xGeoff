@@ -1,5 +1,5 @@
 {
-    "date": "1767659320",
+    "date": "1767663624",
     "device_params": {
         "AxisMode_left": 0,
         "AxisMode_right": 0,
@@ -57,7 +57,7 @@
         "bacic_inertia": 15,
         "bacic_max_torque": 100,
         "bacic_overall_strength": 100,
-        "bacic_spring": 20,
+        "bacic_spring": 10,
         "bacic_start_force_coefficient": 5,
         "bacic_start_force_enble": 1,
         "bacic_start_force_transition_zone": 5,
@@ -122,7 +122,7 @@
         "base_total_advanced_set_Y": 100,
         "base_total_limit_advanced_set_X": 100,
         "base_total_limit_advanced_set_Y": 100,
-        "bf_x_axis_follow_ratio": 100,
+        "bf_x_axis_follow_ratio": 38,
         "bf_y_axis_follow_ratio": 100,
         "flap_switch_trigger_hold_time": 0,
         "gear_led_brightness": 0,
@@ -192,7 +192,7 @@
         "axis_x": 32767,
         "axis_y": 32762,
         "az": 0.1,
-        "bf_x_axis_follow_up_rate": 20,
+        "bf_x_axis_follow_up_rate": 8,
         "bf_y_axis_follow_up_rate": 20,
         "buffet_onset_aoa": 13,
         "buffeting_frequency": 11,
@@ -216,8 +216,8 @@
         "design_buffeting_aoa": 10,
         "design_stall_aoa": 15,
         "dyn_pressure_scale": -5,
-        "elevator_droop": 50,
-        "elevator_droop_switch": false,
+        "elevator_droop": 1,
+        "elevator_droop_switch": true,
         "elevator_prop_flow_enable": false,
         "elevator_prop_flow_ratio": 100,
         "enable_stick_shaker": false,
@@ -341,7 +341,7 @@
         "wind_effect_scaling": 55,
         "wind_effect_switch": true
     },
-    "uuid": "{e28d70bc-7040-4d28-ad09-7e51ed7adb8a}",
+    "uuid": "{d36256e0-6ace-48cf-8465-a9ffb1e80e7e}",
     "vehicles": "Cessna_172SP.acf",
     "version": "1.0.1"
 }
